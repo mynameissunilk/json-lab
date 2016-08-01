@@ -1,0 +1,47 @@
+{"family_array":
+ [
+ {
+
+    "Mom":{
+	"Name":"Maya",
+	"Age":"10",
+	"Thing":"Funny",
+	"Appearance":{
+	    "EyeColor":"Brown",
+	    "HairLength":"Short"
+	}
+    },
+
+    "Dad":{
+	"Name":"Sudarshan",
+	"Age":"10",
+	"Thing":"Serious",
+	"Appearance":{
+	    "EyeColor":"Brown",
+	    "HairLength":"Short"
+	}
+    },
+
+    "Sis":{
+	"Name":"Nisha",
+	"Age":"10",
+	"Thing":"Bookworm",
+	"Appearance":{
+	    "EyeColor":"Brown",
+	    "HairLength":"Long"
+	}
+    },
+
+     "Bro":{
+	"Name":"Saurabh",
+	"Age":"10",
+	"Thing":"Walrus",
+	"Appearance":{
+	    "EyeColor":"Brown",
+	    "HairLength":"Short"
+	}
+    }
+    }
+    
+]
+}

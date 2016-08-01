@@ -1,0 +1,36 @@
+{"ROOT":{
+    "Sunil":{
+	"Age":"10",
+	"Quality":"Sticky",
+	"Appearance":{
+	    "HairLength":"Short",
+	    "EyeColor":"Brown"
+	}
+    },
+    "Nisha":{
+	"Age":"10",
+	"Quality":"Brainy",
+	"Appearance":{
+	    "HairLength":"Long",
+	    "EyeColor":"Brown"
+	}
+    },
+    "Sudarshan":{
+	"Age":"10",
+	"Quality":"Serious",
+	"Appearance":{
+	    "HairLength":"Short",
+	    "EyeColor":"Brown"
+	}
+    },
+    "Maya":{
+	"Age":"10",
+	"Quality":"Superior chef",
+	"Appearance":{
+	    "HairLength":"Short",
+	    "EyeColor":"Brown"
+	}
+    }
+
+}
+}
